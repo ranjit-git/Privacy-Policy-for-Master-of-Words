@@ -1,67 +1,64 @@
-# Privacy Policy for Master of Words
+# Privacy Policy for Master of Words: Brain puzzle
 
-**Last Updated:** 29/7/26
+**Effective Date:** 29/7/26
 
-Welcome to Master of Words ("MOW," "we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we handle data when you use the Master of Words mobile application (the "App").
+This Privacy Policy applies to the **Master of Words** mobile application (the "App"), developed by **ranjit pahan** ("MOW", "we", "us", or "our"). 
 
-Please read this Privacy Policy carefully.
+We are committed to protecting your privacy. This policy explains what information we collect, how it is used, and how it is protected when you play Master of Words.
 
-## 1. No Personal Data Collection
+## 1. Information We Collect
+Master of Words is designed to be an offline-first game. We do not require you to create a custom account with us, nor do we run our own servers to harvest or store your personal data. However, the App does use third-party services that may collect information to function properly.
 
-We do not collect, transmit, or store personally identifiable information such as your name, email address, or precise location.
+### A. Locally Stored Data (Your Device)
+Your game progress, unlocked levels, gem counts, and application settings are stored **locally on your device**. 
+* **Security:** We use AES-256 encryption to securely store your sensitive game data locally.
+* **Transmission:** We do not transmit or store your game progress on any personal external servers. If you uninstall the app or clear your device's app data, this local data will be permanently deleted.
 
-The App is primarily designed to function offline. We do not require you to create an account, and we do not use your data for advertising or user profiling.
+### B. Automatically Collected Data
+When you use the App, certain information is collected automatically by third-party SDKs integrated into the game:
+* **Device Information:** Device type, operating system version, and unique device identifiers.
+* **Crash & Performance Data:** If the App crashes, anonymous crash reports are sent to Firebase Crashlytics to help us fix the issue.
+* **Advertising Data:** Advertising IDs (such as Google Advertising ID or Apple IDFA) and IP addresses to serve customized advertisements.
 
-## 2. Local Game Data
+## 2. Third-Party Services
+We use the following third-party services, which have their own privacy policies governing how they handle your data:
 
-Your game progress, settings, and in-game currency (gems) are saved strictly **locally on your device** using standard device storage mechanisms.
+* **Google Mobile Ads (AdMob):** Used to display banner, interstitial, and rewarded video ads. AdMob may use advertising IDs to serve personalized ads. 
+  * [Google Privacy Policy](https://policies.google.com/privacy)
+* **Firebase Crashlytics:** Used to monitor app stability and collect anonymous crash reports.
+  * [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+* **Google Play Games Services / Apple Game Center (Optional):** Used for providing achievements and leaderboards. If you choose to sign in, your game data is linked to your respective Google or Apple account.
+  * [Google Privacy Policy](https://policies.google.com/privacy)
+  * [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
 
-* We do not have access to this data.
-* We do not back up this data to our servers.
-* If you uninstall the App or clear your device's data, your game progress will be permanently deleted.
+## 3. In-App Purchases
+Master of Words offers in-app purchases. All transactions are securely processed by **Google Play Billing** (on Android) or **Apple StoreKit** (on iOS). 
+* **We do not process, collect, or have access to your credit card information, billing address, or specific financial data.** We only receive a secure token confirming whether a purchase (e.g., buying gems or unlocking the premium version) was successful.
 
-## 3. Crash Reporting
+## 4. How We Use Your Information
+The information collected by third-party services is used to:
+* Provide, maintain, and improve the App.
+* Serve relevant advertisements (which keeps the game free to play).
+* Diagnose and fix technical issues and crashes.
+* Process secure in-app purchases.
+* Facilitate optional platform features like achievements.
 
-To improve app stability and fix technical issues, the App uses **Firebase Crashlytics**, a crash reporting service provided by Google.
+## 5. Your Rights (GDPR & CCPA)
+Depending on your region (such as the European Economic Area or California), you have certain rights regarding your data:
+* **Opt-Out of Personalized Ads:** You can opt out of personalized advertising at any time through your device's system settings. 
+  * *Android:* Settings > Google > Ads > Opt out of Ads Personalization.
+  * *iOS:* Settings > Privacy > Apple Advertising > Turn off Personalized Ads.
+* **Data Deletion:** Since we do not store your data on our servers, you can completely erase your Master of Words data at any time by uninstalling the App or clearing the App's data from your device settings.
 
-Firebase Crashlytics may automatically collect certain technical information when the App crashes or experiences an error, such as:
+## 6. Children’s Privacy (COPPA)
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-* Device model
-* Operating system version
-* App version
-* Crash logs and stack traces
-* General device state at the time of the crash
-
-This information is used only to diagnose and fix bugs, improve performance, and maintain app reliability. It is not used for advertising, personalization, or analytics tracking.
-
-For more information about how Google handles data, please review Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-
-## 4. No Advertising or Behavioral Analytics
-
-At this stage, the App **does not** integrate third-party advertising networks such as Google AdMob, and it does not use analytics platforms for user behavior tracking.
-
-Other than crash reporting described above, there are no third-party cookies, tracking pixels, or similar technologies used by us or by third parties while you use the App.
-
-## 5. In-App Purchases (Simulated)
-
-Currently, the App does not process real-world financial transactions. Any "shop" interfaces or "purchases" shown in the game are strictly simulated for gameplay purposes and do not interact with Google Play, the Apple App Store, or any payment processors.
-
-We do not collect or have access to payment information.
-
-## 6. Children's Privacy
-
-The App is designed to be safe for children. We do not knowingly collect personally identifiable information from children under the age of 13 (or under 16 in the EU).
-
-Because the App does not collect personal information and only uses crash reporting for technical diagnostics, we aim to keep data practices minimal and privacy-friendly.
+*(Note: Advertisements shown in the game are governed by network policies designed to prevent inappropriate targeting).*
 
 ## 7. Changes to This Privacy Policy
-
-If we update the App in the future to include online features, advertisements, analytics, or additional third-party services, we will update this Privacy Policy accordingly.
-
-We will notify users of any changes by posting the updated Privacy Policy on this page and revising the "Last Updated" date above.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
 
 ## 8. Contact Us
+If you have any questions, concerns, or suggestions about this Privacy Policy or Master of Words, please contact us at:
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-**Email:** [pahan.ranjit.0201@gmail.com](mailto:pahan.ranjit.0201@gmail.com)
+**Email:** pahan.ranjit.0201@gmail.com
